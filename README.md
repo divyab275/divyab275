@@ -1,6 +1,6 @@
 <!-- ![hello](hello.gif) -->
 <p align='center'>
-<img src = "hello.gif" style='border-radius:100%'>
+<img src = "https://github.com/divyab275/divyab275/blob/master/hello.gif" style='border-radius:100%'>
 </p>
 
 I'm a 22 year old girl who is almost graduated out of college. I'm about to join a 150 year old non-profit organisation *Providence* as Assistant Developer. Also I want to establish my love for coding.
@@ -33,13 +33,13 @@ I'm a 22 year old girl who is almost graduated out of college. I'm about to join
 
 <div style="display:flex;justify-content:space-around">
     <div style='float:left;height:50px'>
-    <img src='instagram.png'/>
+    <img src='https://github.com/divyab275/divyab275/blob/master/instagram.png'/>
     </div>
     <div style='float:left;height:50px'>
-    <img src='facebook.png'/>
+    <img src='https://github.com/divyab275/divyab275/blob/master/facebook.png'/>
     </div>
     <div style='float:left;height:50px'>
-    <img src='linkedin.png'/>
+    <img src='https://github.com/divyab275/divyab275/blob/master/linkedin.png'/>
     </div>
 </div>
 
