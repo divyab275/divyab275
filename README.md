@@ -10,12 +10,7 @@ I'm a 22 year old girl who is almost graduated out of college. I'm about to join
 <br/>
 
 <div style='clear:both'>
-<div style='float:left'>
-    <div align='center'>
-    <img src='https://github.com/divyab275/divyab275/blob/master/skills.jpg'  style='border-radius:100%;height:200px'>
-    <p style="margin-top:-30px">SKILLS</p>
-    </div>
-</div>
+SKILLS
 <div style='float:left'>
     <ul style='list-style-type:none;'>
         <li>Python</li>
@@ -31,4 +26,4 @@ I'm a 22 year old girl who is almost graduated out of college. I'm about to join
 
 ## Connect with me!
 
-!(https://github.com/divyab275/divyab275/blob/master/instagram.png) !((https://github.com/divyab275/divyab275/blob/master/instagram.png) !((https://github.com/divyab275/divyab275/blob/master/instagram.png)
+![instagram](https://github.com/divyab275/divyab275/blob/master/instagram.png)    ![instagram](https://github.com/divyab275/divyab275/blob/master/instagram.png)   ![instagram](https://github.com/divyab275/divyab275/blob/master/instagram.png)
